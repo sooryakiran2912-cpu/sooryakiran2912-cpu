@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Soorya Kiran
 
-<!--
-**sooryakiran2912-cpu/sooryakiran2912-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Cybersecurity enthusiast** exploring the world of digital security and ethical hacking.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Interests
+- 🔒 Cybersecurity & Ethical Hacking  
+- 🖥️ Networking & System Security  
+- 🐍 Python for Security Tools  
+- 💡 Vulnerability Assessment & Penetration Testing  
+
+---
+
+## 🌱 Currently Learning
+- Advanced penetration testing techniques  
+- Cloud security & defensive strategies  
+- Security automation with Python  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
+
+---
+
+## 🌐 Connect with Me
+- LinkedIn: [Your LinkedIn](YOUR_LINK)  
+- Portfolio: [Your Website](YOUR_LINK)  
+
+---
+
+⭐️ Thanks for visiting my profile!
