@@ -25,9 +25,7 @@ I'm a passionate **Cybersecurity enthusiast** exploring the world of digital sec
 ---
 
 ## 🌐 Connect with Me
-- LinkedIn: www.linkedin.com/in/
-soorya-kiran-
-Vanity URL name
+- LinkedIn: 
   
 - Portfolio: [Your Website](YOUR_LINK)  
 
